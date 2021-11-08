@@ -1,0 +1,5 @@
+var a = 1 , b = 3 , c = 0 , d = 100 . 
+~ c = a / b .
+showme ~ "Hello_World" .
+
+
